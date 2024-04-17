@@ -1,16 +1,16 @@
 {
-  "TRAIN_NO": "15053",
-  "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "14/05/2024",
-  "SOURCE_STATION": "GCT",
+  "TRAIN_NO": "12798",
+  "TRAIN_COACH": "2A",
+  "TRAVEL_DATE": "18/04/2024",
+  "SOURCE_STATION": "KRNT",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "BSB",
-  "TATKAL": false,
+  "DESTINATION_STATION": "KCG",
+  "TATKAL": true,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Naveen",
+      "AGE": 29,
       "GENDER": "Male",
       "SEAT": "Side Lower",
       "FOOD": "No Food"
